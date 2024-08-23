@@ -136,7 +136,6 @@
     <ClCompile Include="clsCurrencyCalculator.cpp" />
     <ClCompile Include="clsCurrencyExchangeMainScreen.cpp" />
     <ClCompile Include="clsDeleteClientScreen.cpp" />
-    <ClCompile Include="clsDeletedClientsScreen.cpp" />
     <ClCompile Include="clsDeleteUserScreen.cpp" />
     <ClCompile Include="clsDepositScreen.cpp" />
     <ClCompile Include="clsFindClientScreen.cpp" />

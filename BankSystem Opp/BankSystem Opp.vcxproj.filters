@@ -78,9 +78,6 @@
     <ClCompile Include="clsTotalBalancesScreen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="clsDeletedClientsScreen.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="clsManageUsersScreen.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
